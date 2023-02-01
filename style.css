@@ -1,0 +1,34 @@
+.parte1{
+    
+    background-image: url(img/fondo-bienvenido-grande.jpg);
+    border:none;
+}
+button{
+    border: none;
+    outline: none;
+    background-color: white;
+}
+.parte2{
+
+
+
+    background-color: #f05f40;
+
+}
+.fa-briefcase{
+    font-size: 100px;
+    color: #f05f40;
+}
+.fa-bullhorn{
+    font-size: 100px;
+    color: #f05f40;
+}
+
+.fa-check-square-o{
+        font-size: 100px;
+        color: #f05f40;
+}
+.parte4{
+    background-color:#424141;
+
+}
