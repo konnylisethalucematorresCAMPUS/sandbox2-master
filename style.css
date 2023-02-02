@@ -8,6 +8,34 @@
 
 
 }
+nav{
+    max-width:900px;
+    margin: top;
+    font-size:20px;
+   
+}
+
+.menu-horizontal{
+
+    list-style:none;
+    display: flex;
+    justify-content: center;
+    padding-left: 1200px;
+}
+
+
+.menu-horizontal >li>a{
+
+    padding: 15px 20px;
+    color: white;
+    text-decoration: none;
+
+}
+
+.menu-horizontal> li:hover{
+    background-color: #f05f40;
+
+}
 button
 {
     background-color: #f05f40;
@@ -30,12 +58,14 @@ button
 }
 .parte2{
 
-    padding-top: 30px;
+    padding-top: 50px;
     color: white;
     background-color: #f05f40;
     background-size: cover;
     height: 600px;
 }
+
+
 .dos{
     background-color: white;
     border: none;
@@ -59,12 +89,10 @@ h2{display: block;
         font-size: 100px;
         color: #f05f40;
 }
-.parte3
-
-
 
 
 .parte4{
     background-color:#424141;
+
 
 }
