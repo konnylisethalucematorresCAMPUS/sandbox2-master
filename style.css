@@ -1,20 +1,51 @@
 .parte1{
     
     background-image: url(img/fondo-bienvenido-grande.jpg);
+    background-size: cover;
+    height: 800px;
     border:none;
+    color:white;
+
+
 }
-button{
+button
+{
+    background-color: #f05f40;
+    border: none;
+}
+.navbar-brand 
+{
     border: none;
     outline: none;
-    background-color: white;
+   padding-left: 200px;
+
+
+}
+.sol-luz
+{
+    border:none;
+    outline:none;
+    padding-left: 600px;
+
 }
 .parte2{
 
-
-
+    padding-top: 30px;
+    color: white;
     background-color: #f05f40;
+    background-size: cover;
+    height: 600px;
+}
+.dos{
+    background-color: white;
+    border: none;
 
 }
+h2{display: block;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
 .fa-briefcase{
     font-size: 100px;
     color: #f05f40;
@@ -28,6 +59,11 @@ button{
         font-size: 100px;
         color: #f05f40;
 }
+.parte3
+
+
+
+
 .parte4{
     background-color:#424141;
 
